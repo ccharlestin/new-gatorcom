@@ -1,0 +1,45 @@
+body{
+    background-color: #CCD6EB;
+}
+
+
+#chat-field {
+    width:100%;
+    resize: vertical;
+    padding:15px;
+    border-radius:15px;
+    border:0;
+    box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+    height: 600px;
+    overflow-y: scroll;
+  }
+
+.shadow-glow {
+  background-color: #ffffff;
+  box-shadow:
+    0 0 5px 5px #D8D8D8; /* light grey */
+}
+
+
+#title {
+    color: #074ee8;
+    font-size: 50px;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    padding-top: 2%;
+    padding-left: 2%;
+    text-align: center;
+  }
+
+.form-inline {
+    width: 100%;
+  }
+
+#button-margin{
+    margin-top: 1%;
+}
+
+#button-image{
+    width: 25px;
+    height: 25px;
+}

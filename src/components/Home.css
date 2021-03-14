@@ -1,0 +1,21 @@
+body{
+    background-color: #CCD6EB;
+}
+
+#title {
+    color: #074ee8;
+    font-size: 50px;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 400;
+    padding-top: 2%;
+    padding-left: 2%;
+    text-align: center;
+  }
+  
+.col-md-4{
+    margin: 6%;
+}
+
+.center{
+    text-align: center;
+}
